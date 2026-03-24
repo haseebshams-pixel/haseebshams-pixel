@@ -64,6 +64,16 @@ I'm a full-stack software engineer with a BSc in Computer Science from **NUCES (
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Haseeb's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=haseebshams-pixel&theme=github-compact&hide_border=true&area=true&area_color=2ea44f&color=58a6ff&line=2ea44f&point=ffffff)](https://github.com/haseebshams-pixel)
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
